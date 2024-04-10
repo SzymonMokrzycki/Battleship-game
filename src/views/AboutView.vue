@@ -49,10 +49,10 @@
         <img src="/buyshipscreen.png" width="500" height="200" class="aboutImg mr-2 rounded-md border-2 border-white"/>
         <img src="/gameviewscreen.png" width="500" height="200" class="aboutImg mr-2 rounded-md border-2 border-white"/>
       </div>
-      <h1 class="mb-6 text-xl">Training with AI </h1> 
+      <h1 class="mb-6 text-xl">Training with computer </h1> 
       <p class="mb-6">
         If you are a new player and you are not sure if you are ready to face a real opponent
-        you can test your skills in battle with artificial intelligence. It won't affect your stats.
+        you can test your skills in battle with computer. It won't affect your stats.
         The accumulated experience will help you choose the right tactics in battle and eliminate mistakes to tip the scales of victory in your favor.
         Developing the right tactics for each battle will help you reach the top faster.
       </p>
