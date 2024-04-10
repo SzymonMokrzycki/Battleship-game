@@ -110,7 +110,7 @@ function gameOnline(){
                 <div class="mt-2 grid space-y-2">
                   
                   <button type="button" @click="enterBattleAI" class="text-white bg-rose-800 rounded-lg text-lg p-1.5 border-2 border-white hover:bg-rose-500">
-                    Game against AI
+                    Game against computer
                   </button>
                   <button type="button" @click="gameOnline" class="text-white bg-rose-800 rounded-lg text-lg p-1.5 border-2 border-white hover:bg-rose-500">
                     Game against other player
