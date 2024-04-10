@@ -784,7 +784,7 @@ watch(
     <div v-show="hasWon() == 0" class="bg-gray-600 block p-2 justify-center">
         <div class="text-white items-center flex justify-center bg-gray-600 text-xl">Round {{  rounds }}</div>
         <div v-show="setWaitingText" class="text-white items-center flex justify-center bg-gray-600 text-xl mb-4">Your ships placing</div>
-        <div v-show="!setWaitingText" class="text-white items-center flex justify-center bg-gray-600 text-xl">Opponent: AI</div>
+        <div v-show="!setWaitingText" class="text-white items-center flex justify-center bg-gray-600 text-xl">Opponent: Computer</div>
         
         <div v-show="setWaitingText" v-for="ship in shipsCurrentPlayer" :key="ship.id" class="text-white block space-x-2 justify-center grid">
             <span>{{ ship.name }}</span>
